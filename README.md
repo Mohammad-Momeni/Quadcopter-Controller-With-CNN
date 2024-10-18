@@ -1,12 +1,16 @@
-***Description***
+## ✨ **Project Description**
 
-*Mavic 2 Pro controller with a CNN for detecting types of different boxes in the world.*
+The **Mavic 2 Pro Controller** is integrated with a **Convolutional Neural Network (CNN)** to detect and classify various types of boxes around the world.
 
-The dataset used for the CNN model: [link](https://docs.google.com/document/d/1HN9np7kDS9zph0zncIxFYezDnyOSDNuaJPQjYtQkXKY/)
+### 🔍 **Dataset**
+The dataset used for training the CNN model can be found [here](https://docs.google.com/document/d/1HN9np7kDS9zph0zncIxFYezDnyOSDNuaJPQjYtQkXKY/).
 
-[here](https://www.youtube.com/watch?v=Y0QVIHfZDj8) is the YouTube link
+### 🎥 **Demo**
+Check out the project demo on [YouTube](https://www.youtube.com/watch?v=Y0QVIHfZDj8).
 
-***Collaborators***
+---
+
+## 🤝 **Collaborators**
 - [Mohammad Matin Momeni](https://github.com/Mohammad-Momeni)
 - [Sadra Berangi](https://github.com/sadraberangi)
-- [Sobhan Saririan]()
+- Sobhan Saririan
