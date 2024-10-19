@@ -13,4 +13,3 @@ Check out the project demo on [YouTube](https://www.youtube.com/watch?v=Y0QVIHfZ
 ## 🤝 **Collaborators**
 - [Mohammad Matin Momeni](https://github.com/Mohammad-Momeni)
 - [Sadra Berangi](https://github.com/sadraberangi)
-- Sobhan Saririan
